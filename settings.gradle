@@ -1,0 +1,3 @@
+rootProject.name='JawwalPay'
+include ':app'
+include ':jawwal_pay'
